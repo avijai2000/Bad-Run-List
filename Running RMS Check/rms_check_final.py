@@ -39,8 +39,6 @@ for ch in chs:
     rms_all[ch] = []
 
 diff = num_events//3
-station = filename.split("/")[-3]
-run = filename.split("/")[-2]
 
 for event in range(num_events):
     combinedTree.GetEntry(event)
@@ -76,24 +74,14 @@ for event in range(1):
     time_readout = d.readout_time_lt
     time = hdr.trigger_time
 
-def run_num(run):
-    nums = []
-    for char in run:
-        if (char.isdigit() == True):
-            nums.append(char)
-    num = 0
-
-    for i in range(len(nums)):
-        num += float(nums[i])*(10**(len(nums)-i-1))
-    return int(num)
-
 #change station number
 
-stat = run_num(station)
+stat = 24
 
 #change path to rms_bounds folder 
 
 bounds_path = f"/data/condor_builds/users/avijai/RNO/tutorials-rnog/get_daqstatus/rms_bounds/stat{stat}_rms_bounds.csv"
+
 ch_yr_bounds = {}
 years = []
 
