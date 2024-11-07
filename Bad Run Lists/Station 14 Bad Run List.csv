@@ -1,0 +1,309 @@
+Run Number,Comment
+50001,Test runs after commission
+50002,Test runs after commission
+50003,Test runs after commission
+50004,Test runs after commission
+50005,Test runs after commission
+50006,Test runs after commission
+50007,Test runs after commission
+50008,Test runs after commission
+50009,Test runs after commission
+50010,Test runs after commission
+50011,Test runs after commission
+50012,Test runs after commission
+50013,Test runs after commission
+50014,Test runs after commission
+50015,Test runs after commission
+50016,Test runs after commission
+50017,Test runs after commission
+240001,Trigger Rate > 2
+240010,Trigger Rate > 2
+240032,Trigger Rate > 2
+240075,Trigger Rate > 2
+240076,Trigger Rate > 2
+240077,Trigger Rate > 2
+240085,Trigger Rate > 2
+240093,Trigger Rate > 2
+240094,Trigger Rate > 2
+240095,Trigger Rate > 2
+240096,Trigger Rate > 2
+240107,Reduce trigger readout delay for rf0 and rf1 by 130ns to accomodate for the new fiber
+240109,Decreased readout delay for triggers rf0 and rf1 by another 260 ns to a total of 390ns.
+240118,Trigger Rate > 2
+240132,Trigger Rate > 2
+240141,Trigger Rate > 2
+240143,Trigger Rate > 2
+240145,Trigger Rate > 2
+240146,Trigger Rate > 2
+240147,Trigger Rate > 2
+240148,Trigger Rate > 2
+240149,Trigger Rate > 2
+240150,Trigger Rate > 2
+240151,Trigger Rate > 2
+240158,Trigger Rate > 2
+240159,Trigger Rate > 2
+240160,Trigger Rate > 2
+240171,Trigger Rate > 2
+240174,Trigger Rate > 2
+240175,Trigger Rate > 2
+240184,Trigger Rate > 2
+240185,Trigger Rate > 2
+240209,Trigger Rate > 2
+240210,Trigger Rate > 2
+240240,Trigger Rate > 2
+240241,Trigger Rate > 2
+240250,coax
+240265,Trigger Rate > 2
+240267,Trigger Rate > 2
+240268,Trigger Rate > 2
+240275,Trigger Rate > 2
+240276,Trigger Rate > 2
+240277,Trigger Rate > 2
+240278,Trigger Rate > 2
+240279,Trigger Rate > 2
+240281,Trigger Rate > 2
+240282,coax
+240283,coax
+240289,Trigger Rate > 2
+240290,Trigger Rate > 2
+240292,Trigger Rate > 2
+240308,Trigger Rate > 2
+240319,Trigger Rate > 2
+240323,Trigger Rate > 2
+240336,Trigger Rate > 2
+240343,Trigger Rate > 2
+240345,coax sweep
+240346,fib0 sweep
+240347,fib1 sweep
+240355,Trigger Rate > 2
+240390,Trigger Rate > 2
+240392,Trigger Rate > 2
+240393,Trigger Rate > 2
+240394,Trigger Rate > 2
+240396,Trigger Rate > 2
+240399,Trigger Rate > 2
+240404,Trigger Rate > 2
+240408,Trigger Rate > 2
+240409,Trigger Rate > 2
+240414,Trigger Rate > 2
+240415,Trigger Rate > 2
+240416,Trigger Rate > 2
+240418,Trigger Rate > 2
+240419,Trigger Rate > 2
+240422,Trigger Rate > 2
+240423,Trigger Rate > 2
+240427,Trigger Rate > 2
+240428,Trigger Rate > 2
+240430,Trigger Rate > 2
+240431,Trigger Rate > 2
+240438,Trigger Rate > 2
+240439,Trigger Rate > 2
+240440,Trigger Rate > 2
+240441,Trigger Rate > 2
+240442,Trigger Rate > 2
+240447,Trigger Rate > 2
+240450,Trigger Rate > 2
+240451,Trigger Rate > 2
+240453,Trigger Rate > 2
+240454,Trigger Rate > 2
+240462,Trigger Rate > 2
+240464,Trigger Rate > 2
+240466,Trigger Rate > 2
+240468,Trigger Rate > 2
+240470,Trigger Rate > 2
+240472,Trigger Rate > 2
+240473,Trigger Rate > 2
+240474,Trigger Rate > 2
+240475,Trigger Rate > 2
+240478,Trigger Rate > 2
+240488,Trigger Rate > 2
+240489,Trigger Rate > 2
+240490,Trigger Rate > 2
+240500,Trigger Rate > 2
+240501,Trigger Rate > 2
+240502,Trigger Rate > 2
+240503,Trigger Rate > 2
+240511,Trigger Rate > 2
+240513,Trigger Rate > 2
+240517,Trigger Rate > 2
+240519,Trigger Rate > 2
+240520,Trigger Rate > 2
+240521,Trigger Rate > 2
+240522,Trigger Rate > 2
+240524,Trigger Rate > 2
+240527,Trigger Rate > 2
+240528,Trigger Rate > 2
+240531,Trigger Rate > 2
+240532,Trigger Rate > 2
+240533,Trigger Rate > 2
+240534,Trigger Rate > 2
+240535,Trigger Rate > 2
+240536,Trigger Rate > 2
+240539,Trigger Rate > 2
+240540,Trigger Rate > 2
+240541,Trigger Rate > 2
+240552,Trigger Rate > 2
+240553,Trigger Rate > 2
+240557,Trigger Rate > 2
+240558,Trigger Rate > 2
+240565,Trigger Rate > 2
+240568,Trigger Rate > 2
+240569,Trigger Rate > 2
+240570,Trigger Rate > 2
+240577,Trigger Rate > 2
+240578,Trigger Rate > 2
+240579,Trigger Rate > 2
+240580,Trigger Rate > 2
+240581,Trigger Rate > 2
+240582,Trigger Rate > 2
+240583,Trigger Rate > 2
+240584,Trigger Rate > 2
+240585,Trigger Rate > 2
+240587,Trigger Rate > 2
+240589,Trigger Rate > 2
+240590,Trigger Rate > 2
+240591,Trigger Rate > 2
+240592,Trigger Rate > 2
+240593,Trigger Rate > 2
+240594,Trigger Rate > 2
+240595,Trigger Rate > 2
+240596,Trigger Rate > 2
+240597,Trigger Rate > 2
+240600,Trigger Rate > 2
+240601,Trigger Rate > 2
+240604,Trigger Rate > 2
+240605,Trigger Rate > 2
+240609,Trigger Rate > 2
+240610,Trigger Rate > 2
+240613,Trigger Rate > 2
+240614,Trigger Rate > 2
+240625,Trigger Rate > 2
+240626,Trigger Rate > 2
+240630,Trigger Rate > 2
+240633,Trigger Rate > 2
+240635,Trigger Rate > 2
+240636,Trigger Rate > 2
+240637,Trigger Rate > 2
+240638,Trigger Rate > 2
+240641,Trigger Rate > 2
+240646,Trigger Rate > 2
+240648,Trigger Rate > 2
+240649,Trigger Rate > 2
+240656,Trigger Rate > 2
+240657,Trigger Rate > 2
+240658,Trigger Rate > 2
+240659,Trigger Rate > 2
+240660,Trigger Rate > 2
+240661,Trigger Rate > 2
+240662,Trigger Rate > 2
+240664,Trigger Rate > 2
+240665,Trigger Rate > 2
+240667,Trigger Rate > 2
+240668,Trigger Rate > 2
+240669,Trigger Rate > 2
+240670,Trigger Rate > 2
+240671,Trigger Rate > 2
+240672,Trigger Rate > 2
+240673,Trigger Rate > 2
+240674,Trigger Rate > 2
+240677,Trigger Rate > 2
+240678,Trigger Rate > 2
+240679,Trigger Rate > 2
+240680,Trigger Rate > 2
+240681,Trigger Rate > 2
+240682,Trigger Rate > 2
+240683,Trigger Rate > 2
+240684,Trigger Rate > 2
+240685,Trigger Rate > 2
+240691,Trigger Rate > 2
+240692,Trigger Rate > 2
+240693,Trigger Rate > 2
+240694,Trigger Rate > 2
+240695,Trigger Rate > 2
+240696,Trigger Rate > 2
+240697,Trigger Rate > 2
+240698,Trigger Rate > 2
+240704,Trigger Rate > 2
+240705,Trigger Rate > 2
+240706,Trigger Rate > 2
+240707,Trigger Rate > 2
+240708,Trigger Rate > 2
+240712,Trigger Rate > 2
+240713,Trigger Rate > 2
+240714,Trigger Rate > 2
+240715,Trigger Rate > 2
+240716,Trigger Rate > 2
+240717,Trigger Rate > 2
+240718,Trigger Rate > 2
+240719,Trigger Rate > 2
+240721,Trigger Rate > 2
+240722,Trigger Rate > 2
+240723,Trigger Rate > 2
+240724,Trigger Rate > 2
+240725,Trigger Rate > 2
+240726,Trigger Rate > 2
+240727,Trigger Rate > 2
+240729,Trigger Rate > 2
+240731,Trigger Rate > 2
+240732,Trigger Rate > 2
+240733,Trigger Rate > 2
+240734,Trigger Rate > 2
+240735,Trigger Rate > 2
+240736,Trigger Rate > 2
+240737,Trigger Rate > 2
+240738,Trigger Rate > 2
+240739,Trigger Rate > 2
+240740,Trigger Rate > 2
+240741,Trigger Rate > 2
+240742,Trigger Rate > 2
+240743,Trigger Rate > 2
+240744,Trigger Rate > 2
+240745,Trigger Rate > 2
+240746,Trigger Rate > 2
+240747,Trigger Rate > 2
+240748,Trigger Rate > 2
+240749,Trigger Rate > 2
+240750,Trigger Rate > 2
+240753,Trigger Rate > 2
+240756,Trigger Rate > 2
+240757,Trigger Rate > 2
+240758,Trigger Rate > 2
+240759,Trigger Rate > 2
+240760,Trigger Rate > 2
+240761,Trigger Rate > 2
+240769,Trigger Rate > 2
+240772,Trigger Rate > 2
+240773,Trigger Rate > 2
+240774,Trigger Rate > 2
+240776,Trigger Rate > 2
+240781,Trigger Rate > 2
+240783,Trigger Rate > 2
+240784,Trigger Rate > 2
+500000,H- and V-pols pulser drops. Pulsing from 4th hole.
+500001,H- and V-pols pulser drops. Pulsing from 4th hole.
+500002,H- and V-pols pulser drops. Pulsing from 4th hole.
+500003,H- and V-pols pulser drops. Pulsing from 4th hole. ~40 m hpol pulsing
+500004,H- and V-pols pulser drops. Pulsing from 4th hole. ~40 m hpol pulsing - sinus
+500005,H- and V-pols pulser drops. Pulsing from 4th hole. ~40 m hpol pulsing - sinus
+500006,H- and V-pols pulser drops. Pulsing from 4th hole. ~40 m hpol pulsing - sinus
+500007,H- and V-pols pulser drops. Pulsing from 4th hole. ~40 m hpol pulsing
+500008,"H- and V-pols pulser drops. Pulsing from 4th hole. ~40 m hpol pulsing, python cal_i2c_revE.py 0 3 0"
+500009,"H- and V-pols pulser drops. Pulsing from 4th hole. ~40 m hpol pulsing, python cal_i2c_revE.py 31 3 0"
+500010,"H- and V-pols pulser drops. Pulsing from 4th hole. ~40 m vpol pulsing, python cal_i2c_revE.py 31 2 0"
+500011,"H- and V-pols pulser drops. Pulsing from 4th hole. ~40 m vpol pulsing, python cal_i2c_revE.py 0 2 0"
+500012,"H- and V-pols pulser drops. Pulsing from 4th hole. ~40 m vpol pulsing, python cal_i2c_revE.py 0 2 0"
+500013,"H- and V-pols pulser drops. Pulsing from 4th hole. ~40 m hpol pulsing, python cal_i2c_revE.py 63 3 0"
+500014,"H- and V-pols pulser drops. Pulsing from 4th hole. ~40 m vpol pulsing, python cal_i2c_revE.py 63 2 0"
+500015,"H- and V-pols pulser drops. Pulsing from 4th hole. ~40 m vpol pulsing - sinus, python cal_i2c_revE.py 63 2 1"
+500016,"H- and V-pols pulser drops. Pulsing from 4th hole.Dropping from ~40 m vpol pulsing, python cal_i2c_revE.py 63 2 0"
+500017,"H- and V-pols pulser drops. Pulsing from 4th hole. ~80 m vpol pulsing, python cal_i2c_revE.py 63 2 0"
+500018,"H- and V-pols pulser drops. Pulsing from 4th hole. ~80 m hpol pulsing, python cal_i2c_revE.py 63 3 0"
+500019,"H- and V-pols pulser drops. Pulsing from 4th hole. ~80 m vpol pulsing, python cal_i2c_revE.py 63 2 0"
+500020,"H- and V-pols pulser drops. Pulsing from 4th hole. ~80 m hpol pulsing, python cal_i2c_revE.py 63 3 0"
+500021,"H- and V-pols pulser drops. Pulsing from 4th hole. ~80 m hpol pulsing, python cal_i2c_revE.py 63 3 0"
+500022,"H- and V-pols pulser drops. Pulsing from 4th hole. ~80 m vpol pulsing, python cal_i2c_revE.py 63 2 0"
+500023,H- and V-pols pulser drops. 4th hole. pulser rasing from ~80 m vpol and hpol pulsing.
+500024,H- and V-pols pulser drops. 4th hole. pulser rasing from ~80 m vpol and hpol pulsing.
+500025,H- and V-pols pulser drops. 4th hole. pulser rasing from ~80 m vpol and hpol pulsing.
+500026,H- and V-pols pulser drops. 4th hole. pulser rasing from ~80 m vpol and hpol pulsing.
+240042,Failed RMS Check

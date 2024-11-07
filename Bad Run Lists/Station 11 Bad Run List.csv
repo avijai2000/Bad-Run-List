@@ -1,0 +1,790 @@
+Run Number,Comment
+43,testing the pulser again
+44,testing the pulser again
+45,testing the pulser again
+46,testing the pulser again
+47,testing the pulser again
+48,testing the pulser again
+59,testing the pulser again
+60,testing the pulser again
+131,No Surface Trigger / Component for GPS Surveying of stations
+132,No Surface Trigger / Component for GPS Surveying of stations
+148,"berm-top pulser, first test"
+150,"berm-top pulser, deep trigger"
+151,"berm-top pulser, chn6 trigger"
+152,"berm-top pulser, chn6 trigger"
+153,"berm-top pulser, chn6 trigger"
+154,"berm-top pulser, chn6 trigger"
+155,"berm-top pulser, chn6 trigger"
+174,snowmobile going out to stations
+175,snowmobile going out to stations
+176,snowmobile going out to stations
+177,snowmobile going out to stations
+178,snowmobile going out to stations
+179,snowmobile going out to stations
+189,going out on the snowmobile
+190,going out on the snowmobile
+191,going out on the snowmobile
+192,going out on the snowmobile
+193,going out on the snowmobile
+194,going out on the snowmobile
+195,going out on the snowmobile
+196,going out on the snowmobile
+197,going out on the snowmobile
+198,going out on the snowmobile
+199,going out on the snowmobile
+200,going out on the snowmobile
+201,berm top pulsing
+202,"berm top pulsing, channel1"
+203,"berm top pulsing, channel1"
+204,"berm top pulsing, channel1"
+205,"berm top pulsing, channel1"
+206,"berm top pulsing, channel1"
+207,"berm top pulsing, channel1"
+208,"berm top pulsing, channel1"
+209,"berm top pulsing, channel1"
+210,"berm top pulsing, channel1"
+211,"berm top pulsing, channel1"
+212,"berm top pulsing, channel1"
+213,"berm top pulsing, channel1"
+214,"berm top pulsing, channel1"
+215,"berm top pulsing, channel1"
+216,"berm top pulsing, channel1"
+217,"berm top pulsing, nominal_triggers"
+218,"berm top pulsing, nominal_triggers"
+219,"berm top pulsing, nominal_triggers"
+220,"berm top pulsing, nominal_triggers"
+221,"berm top pulsing, nominal_triggers"
+222,"berm top pulsing, nominal_triggers"
+223,"berm top pulsing, nominal_triggers"
+224,"berm top pulsing, nominal_triggers"
+243,"gps surveying, surface amps off"
+244,"gps surveying, surface amps off"
+245,"gps surveying, surface amps off"
+246,"gps surveying, surface amps off"
+247,"gps surveying, surface amps off"
+248,"gps surveying, surface amps off"
+259,Pusling from West
+260,Pusling from West
+261,Pusling from South
+262,Pusling from South
+263,Pusling from East
+264,Pusling from East
+265,Pulsing from North
+266,Pulsing from North
+591,Trigger Rate > 2
+592,Trigger Rate > 2
+593,Trigger Rate > 2
+594,Trigger Rate > 2
+597,Trigger Rate > 2
+661,"in situ pulsing, pulser 2 att=32"
+662,"in situ pulsing, pulser 3 att=32"
+663,"in situ pulsing, pulser 3 att=38"
+664,"in situ pulsing, surface pulser att=38"
+1004,Trigger Rate > 2
+1005,Trigger Rate > 2
+1006,Trigger Rate > 2
+1007,Trigger Rate > 2
+1008,Trigger Rate > 2
+1009,Trigger Rate > 2
+1010,Trigger Rate > 2
+1011,Trigger Rate > 2
+1012,Trigger Rate > 2
+1013,Trigger Rate > 2
+1027,Trigger Rate > 2
+1028,Trigger Rate > 2
+1033,Trigger Rate > 2
+1034,Trigger Rate > 2
+1035,Trigger Rate > 2
+1036,Trigger Rate > 2
+1037,Trigger Rate > 2
+1059,Trigger Rate > 2
+1100,"right before the first measurement and in between compass points snowmobile was on, which may've caused RF noise"
+1101,"right before the first measurement and in between compass points snowmobile was on, which may've caused RF noise"
+1130,Trigger Rate > 2
+1185,
+1186,
+1189,
+1190,
+1221,Trigger Rate > 2
+1233,Trigger Rate > 2
+1245,Trigger Rate > 2
+1257,Trigger Rate > 2
+1262,Trigger Rate > 2
+1282,Trigger Rate > 2
+1293,Trigger Rate > 2
+1334,Trigger Rate > 2
+1371,Trigger Rate > 2
+1659,Trigger Rate > 2
+1671,Trigger Rate > 2
+1699,Trigger Rate > 2
+1701,Trigger Rate > 2
+1720,Trigger Rate > 2
+1725,"Calibration run (PA trigger, 0dB attenuation, fiber0, pulser)"
+1726,"Calibration run (PA trigger, 0dB attenuation, fiber0, pulser)"
+1727,"Calibration run (PA trigger, 5dB attenuation, fiber0, pulser)"
+1728,"Calibration run (PA trigger, 10dB attenuation, fiber0, pulser)"
+1729,"Calibration run (PA trigger, 10dB attenuation, fiber1, pulser)"
+1730,"Calibration run (PA trigger, 5dB attenuation, fiber1, pulser)"
+1731,"Calibration run (PA trigger, 0dB attenuation, fiber1, pulser)"
+1732,"Calibration run (forced trigger, 5dB attenuation, fiber1, vco)"
+1733,"Calibration run (forced trigger, 5dB attenuation, fiber0, vco)"
+1744,"Calibration run (PPS trigger, 0dB attenuation, surface pulser, 1.4mus delay)"
+1745,"Calibration run (PPS trigger, 0dB attenuation, surface pulser, 1.6mus delay)"
+1746,"Calibration run (PPS trigger, 0dB attenuation, surface pulser, 1.8mus delay)"
+1747,"Calibration run (PPS trigger, 0dB attenuation, surface pulser, 2.0mus delay)"
+1748,"Calibration run (PPS trigger, 0dB attenuation, surface pulser, 2.2mus delay)"
+1750,"Calibration run (PPS trigger, 0dB attenuation, surface pulser, pulser)"
+1751,"Calibration run (PPS trigger, 0dB attenuation, surface pulser, pulser)"
+1752,"Calibration run (PPS trigger, 0dB attenuation, surface pulser, pulser)"
+1753,"Calibration run (PPS trigger, 1.8mus offset, 0dB attenuation, surface pulser)"
+1754,"Calibration run (PPS trigger, 2.2mus offset, 0dB attenuation, surface pulser)"
+1755,"Calibration run (PPS trigger, 2.6mus offset, 0dB attenuation, surface pulser)"
+1756,"Calibration run (PPS trigger, 1.0mus offset, 0dB attenuation, surface pulser)"
+1757,"Calibration run (PPS trigger, 0.6mus offset, 0dB attenuation, surface pulser)"
+1758,"Calibration run (PPS trigger, 0.2mus offset, 0dB attenuation, surface pulser)"
+1759,"Calibration run (PPS trigger, 0.4mus offset, 0dB attenuation, surface pulser)"
+1760,"Calibration run (PPS trigger, 0.5mus offset, 0dB attenuation, surface pulser)"
+1761,"Calibration run (PPS trigger, 0.8mus offset, 0dB attenuation, surface pulser)"
+1762,"Calibration run (PPS trigger, 1.2mus offset, 0dB attenuation, surface pulser)"
+1785,"Calibration run (PPS trigger, 1.0mus time offset, 0dB attenuation, fiber0)"
+1786,"Calibration run (PPS trigger, 1.2mus time offset, 0dB attenuation, fiber0)"
+1787,"Calibration run (PPS trigger, 1.4mus time offset, 0dB attenuation, fiber0)"
+1788,"Calibration run (PPS trigger, 1.4mus time offset, 0dB attenuation, fiber0)"
+1789,"Calibration run (PPS trigger, 1.6mus time offset, 0dB attenuation, fiber0)"
+1790,"Calibration run (PPS trigger, 1.8mus time offset, 0dB attenuation, fiber0)"
+1791,"Calibration run (PPS trigger, 2.0mus time offset, 0dB attenuation, fiber0)"
+1792,"Calibration run (PPS trigger, 0.8mus time offset, 0dB attenuation, fiber0)"
+1793,"Calibration run (PPS trigger, 0.6mus time offset, 0dB attenuation, fiber0)"
+1794,"Calibration run (PPS trigger, 0.4mus time offset, 0dB attenuation, fiber0)"
+1796,
+1798,
+1799,
+1800,
+1801,
+1802,
+1803,
+1804,
+1805,
+1806,
+1807,
+1808,
+1815,Trigger Rate > 2
+1863,Trigger Rate > 2
+1875,Trigger Rate > 2
+1876,Trigger Rate > 2
+1880,
+1881,
+1882,
+1883,
+1884,
+1885,
+1886,
+1887,
+1888,
+1889,
+1890,
+1910,Trigger Rate > 2
+1955,Trigger Rate > 2
+1966,fib1_sweep
+1968,Trigger Rate > 2
+1991,Trigger Rate > 2
+2026,Trigger Rate > 2
+2038,Trigger Rate > 2
+2061,Trigger Rate > 2
+2062,Trigger Rate > 2
+2073,Trigger Rate > 2
+2085,Trigger Rate > 2
+2097,Trigger Rate > 2
+2108,Trigger Rate > 2
+2120,Trigger Rate > 2
+2132,Trigger Rate > 2
+2144,Trigger Rate > 2
+2203,Trigger Rate > 2
+2204,Trigger Rate > 2
+2205,Trigger Rate > 2
+2206,Trigger Rate > 2
+2207,Trigger Rate > 2
+2232,Trigger Rate > 2
+2267,Trigger Rate > 2
+2328,Trigger Rate > 2
+2329,Trigger Rate > 2
+2330,Trigger Rate > 2
+2331,Trigger Rate > 2
+2462,Trigger Rate > 2
+2466,Trigger Rate > 2
+2480,Trigger Rate > 2
+2481,Trigger Rate > 2
+2482,Trigger Rate > 2
+2483,Trigger Rate > 2
+2487,Trigger Rate > 2
+2510,Trigger Rate > 2
+2544,Trigger Rate > 2
+2654,Trigger Rate > 2
+2655,Trigger Rate > 2
+2702,Trigger Rate > 2
+2703,Trigger Rate > 2
+2704,Trigger Rate > 2
+2780,pulsing run 
+2781,pulsing run 
+2782,pulsing run 
+2783,pulsing run 
+2784,pulsing run 
+2785,pulsing run 
+2786,pulsing run 
+2787,pulsing run 
+2788,pulsing run 
+2820,Trigger Rate > 2
+2821,bermtop pulsing
+2822,bermtop pulsing
+2823,bermtop pulsing
+2824,bermtop pulsing
+2931,Trigger Rate > 2
+3061,Trigger Rate > 2
+3271,Trigger Rate > 2
+3272,Trigger Rate > 2
+3420,Trigger Rate > 2
+3432,Trigger Rate > 2
+3433,Trigger Rate > 2
+3434,Trigger Rate > 2
+3441,Trigger Rate > 2
+3442,Trigger Rate > 2
+3615,Trigger Rate > 2
+3926,Trigger Rate > 2
+3955,Trigger Rate > 2
+3956,Trigger Rate > 2
+3978,Trigger Rate > 2
+3979,Trigger Rate > 2
+3988,Trigger Rate > 2
+3989,Trigger Rate > 2
+3990,Trigger Rate > 2
+4005,
+4044,Trigger Rate > 2
+4045,Trigger Rate > 2
+4046,Trigger Rate > 2
+4047,Trigger Rate > 2
+4048,Trigger Rate > 2
+4049,Trigger Rate > 2
+4050,Trigger Rate > 2
+4051,Trigger Rate > 2
+4062,Trigger Rate > 2
+4063,Trigger Rate > 2
+4298,Trigger Rate > 2
+4299,Trigger Rate > 2
+4300,Trigger Rate > 2
+4343,Trigger Rate > 2
+4344,Trigger Rate > 2
+4350,Trigger Rate > 2
+4351,Trigger Rate > 2
+4352,Trigger Rate > 2
+4353,Trigger Rate > 2
+4354,Trigger Rate > 2
+4355,Trigger Rate > 2
+4494,Trigger Rate > 2
+4495,Trigger Rate > 2
+4496,Trigger Rate > 2
+4497,Trigger Rate > 2
+4528,Trigger Rate > 2
+4529,Trigger Rate > 2
+4530,Trigger Rate > 2
+4531,Trigger Rate > 2
+4532,Trigger Rate > 2
+4533,Trigger Rate > 2
+4765,
+4766,
+4767,
+4797,Calibration run for flower board
+4809,Calibration run. Read out flower-board data.
+4810,Calibration run. Read out flower-board data.
+4811,Calibration run. Read out flower-board data.
+4812,Calibration run. Read out flower-board data.
+4813,Calibration run. Read out flower-board data.
+4814,Calibration run. Read out flower-board data.
+4815,Calibration run. Read out flower-board data.
+4816,Calibration run. Read out flower-board data.
+4817,Calibration run. Read out flower-board data.
+4818,Calibration run. Read out flower-board data.
+4819,Calibration run. Read out flower-board data.
+4820,1 min test run
+4834,Calibration run. Read out flower-board data.
+4835,Calibration run. Read out flower-board data.
+4836,Calibration run. Read out flower-board data.
+50000,First test run after daq swap
+50001,"Namespace(frequency=1, duration=20, comment='Test calibration run.', host='st11', config='stationrc/remote_control/conf/acq.calib.cfg', filename=None, eventbrowser=False, plot=False, calib_channel='fiber0', calib_type='pulser', enable_calib=True, attenuation=15.0, trigger=['soft'])"
+50007,First tests run after daq swap
+50008,First tests run after daq swap
+50009,First tests run after daq swap
+50010,First tests run after daq swap
+50011,First run after daq swap
+50012,First run after daq swap
+50013,First run after daq swap
+50014,First run after daq swap
+50015,First run after daq swap
+50016,First run after daq swap
+50017,First run after daq swap
+50018,First run after daq swap
+50019,First run after daq swap
+50020,First run after daq swap
+50021,First run after daq swap
+50022,First run after daq swap
+50023,First run after daq swap
+50024,First run after daq swap
+50025,First run after daq swap
+50026,First run after daq swap
+50027,First run after daq swap
+50028,First run after daq swap
+50029,First run after daq swap
+50030,First run after daq swap
+50031,First run after daq swap
+50032,First run after daq swap
+50033,First run after daq swap
+50034,First run after daq swap
+50035,First run after daq swap
+50036,First run after daq swap
+50037,First run after daq swap
+50038,First run after daq swap
+50039,First run after daq swap
+50040,First run after daq swap
+50041,First run after daq swap
+50042,First run after daq swap
+50043,First run after daq swap
+50045,First run after daq swap
+50046,First run after daq swap
+50047,First run after daq swap
+50048,First run after daq swap
+50049,First run after daq swap
+50050,First run after daq swap
+50051,First run after daq swap
+50052,First run after daq swap
+50053,First run after daq swap
+50054,First run after daq swap
+50055,First run after daq swap
+50056,First run after daq swap
+50057,First run after daq swap
+50058,First run after daq swap
+50059,First run after daq swap
+50060,First run after daq swap
+50061,First run after daq swap
+50062,First run after daq swap
+50063,First run after daq swap
+50064,First run after daq swap
+50065,First run after daq swap
+50066,First run after daq swap
+50067,First run after daq swap
+50068,First run after daq swap
+50069,First run after daq swap
+50070,First run after daq swap
+50071,First run after daq swap
+50072,First run after daq swap
+50073,First run after daq swap
+50074,First run after daq swap
+50075,First run after daq swap
+50076,First run after daq swap
+50077,First run after daq swap
+50078,First run after daq swap
+50079,First run after daq swap
+50080,First run after daq swap
+50081,First run after daq swap
+50082,First run after daq swap
+240000,First run after daq swap
+240001,First run after daq swap
+240002,First run after daq swap
+240003,First run after daq swap
+240004,First run after daq swap
+240005,First run after daq swap
+240006,First run after daq swap
+240007,First run after daq swap
+240008,First run after daq swap
+240009,First run after daq swap
+240010,First run after daq swap
+240011,First run after daq swap
+240012,First run after daq swap
+240013,First run after daq swap
+240014,First run after daq swap
+240015,First run after daq swap
+240016,First run after daq swap
+240017,First run after daq swap
+240018,First run after daq swap
+240019,First run after daq swap
+240020,First run after daq swap
+240021,First run after daq swap
+240022,First run after daq swap
+240023,First run after daq swap
+240024,First run after daq swap
+240025,First run after daq swap
+240026,First run after daq swap
+240027,First run after daq swap
+240028,First run after daq swap
+240029,First run after daq swap
+240030,First run after daq swap
+240031,First run after daq swap
+240032,First run after daq swap
+240033,First run after daq swap
+240034,First run after daq swap
+240035,First run after daq swap
+240036,First run after daq swap
+240037,First run after daq swap
+240038,First run after daq swap
+240039,First run after daq swap
+240040,First run after daq swap
+240041,First run after daq swap
+240042,First run after daq swap
+240043,First run after daq swap
+240044,First run after daq swap
+240045,First run after daq swap
+240046,First run after daq swap
+240047,First run after daq swap
+240048,First run after daq swap
+240049,First run after daq swap
+240050,First run after daq swap
+240051,First run after daq swap
+240052,First run after daq swap
+240053,First run after daq swap
+240054,First run after daq swap
+240055,First run after daq swap
+240056,First run after daq swap
+240057,First run after daq swap
+240058,First run after daq swap
+240059,First run after daq swap
+240060,First run after daq swap
+240061,First run after daq swap
+240062,First run after daq swap
+240063,First run after daq swap
+240064,First run after daq swap
+240065,First run after daq swap
+240066,First run after daq swap
+240067,First run after daq swap
+240068,First run after daq swap
+240069,First run after daq swap
+240070,First run after daq swap
+240071,First run after daq swap
+240072,First run after daq swap
+240073,First run after daq swap
+240074,First run after daq swap
+240075,First run after daq swap
+240076,First run after daq swap
+240077,First run after daq swap
+240078,First run after daq swap
+240079,First run after daq swap
+240080,First run after daq swap
+240081,First run after daq swap
+240082,First run after daq swap
+240083,First run after daq swap
+240084,First run after daq swap
+240085,First run after daq swap
+240086,First run after daq swap
+240087,First run after daq swap
+240088,First run after daq swap
+240089,First run after daq swap
+240090,First run after daq swap
+240091,First run after daq swap
+240092,First run after daq swap
+240093,First run after daq swap
+240094,First run after daq swap
+240095,First run after daq swap
+240096,First run after daq swap
+240097,First run after daq swap
+240098,First run after daq swap
+240099,First run after daq swap
+240100,First run after daq swap
+240101,First run after daq swap
+240102,First run after daq swap
+240103,First run after daq swap
+240104,First run after daq swap
+240105,First run after daq swap
+240106,First run after daq swap
+240107,First run after daq swap
+240108,First run after daq swap
+240109,First run after daq swap
+240110,First run after daq swap
+240111,First run after daq swap
+240112,First run after daq swap
+240113,First run after daq swap
+240114,First run after daq swap
+240115,First run after daq swap
+240116,First run after daq swap
+240117,First run after daq swap
+240118,First run after daq swap
+240119,First run after daq swap
+240120,First run after daq swap
+240121,First run after daq swap
+240122,First run after daq swap
+240123,First run after daq swap
+240124,First run after daq swap
+240125,First run after daq swap
+240126,First run after daq swap
+240127,First run after daq swap
+240128,First run after daq swap
+240129,First run after daq swap
+240130,First run after daq swap
+240131,First run after daq swap
+240132,First run after daq swap
+240133,First run after daq swap
+240134,First run after daq swap
+240135,First run after daq swap
+240136,First run after daq swap
+240137,First run after daq swap
+240138,First run after daq swap
+240139,First run after daq swap
+240140,First run after daq swap
+240141,First run after daq swap
+240142,First run after daq swap
+240143,First run after daq swap
+240144,First run after daq swap
+240145,First run after daq swap
+240146,First run after daq swap
+240147,First run after daq swap
+240148,First run after daq swap
+240149,First run after daq swap
+240150,First run after daq swap
+240151,First run after daq swap
+240152,First run after daq swap
+240153,First run after daq swap
+240154,First run after daq swap
+240155,First run after daq swap
+240156,First run after daq swap
+240157,First run after daq swap
+240158,First run after daq swap
+240159,First run after daq swap
+240160,First run after daq swap
+240161,First run after daq swap
+240162,First run after daq swap
+240163,First run after daq swap
+240164,First run after daq swap
+240165,First run after daq swap
+240166,First run after daq swap
+240167,First run after daq swap
+240168,First run after daq swap
+240169,First run after daq swap
+240170,First run after daq swap
+240171,First run after daq swap
+240172,First run after daq swap
+240173,First run after daq swap
+240174,First run after daq swap
+240175,First run after daq swap
+240176,First run after daq swap
+240177,First run after daq swap
+240178,First run after daq swap
+240179,First run after daq swap
+240180,First run after daq swap
+240181,First run after daq swap
+240182,First run after daq swap
+240183,First run after daq swap
+240184,First run after daq swap
+240185,First run after daq swap
+240186,First run after daq swap
+240187,First run after daq swap
+240188,First run after daq swap
+240189,First run after daq swap
+240190,First run after daq swap
+240191,First run after daq swap
+240192,First run after daq swap
+240193,First run after daq swap
+240194,First run after daq swap
+240195,First run after daq swap
+240196,First run after daq swap
+240197,First run after daq swap
+240198,First run after daq swap
+240199,First run after daq swap
+240200,First run after daq swap
+240201,First run after daq swap
+240202,First run after daq swap
+240203,First run after daq swap
+240204,First run after daq swap
+240205,First run after daq swap
+240206,First run after daq swap
+240207,First run after daq swap
+240208,First run after daq swap
+240209,First run after daq swap
+240210,First run after daq swap
+240211,First run after daq swap
+240212,First run after daq swap
+240213,First run after daq swap
+240214,First run after daq swap
+240215,Trigger Rate > 2
+240216,Trigger Rate > 2
+240217,Trigger Rate > 2
+240218,Trigger Rate > 2
+240221,Trigger Rate > 2
+240224,Trigger Rate > 2
+240225,Trigger Rate > 2
+240226,Trigger Rate > 2
+240227,Trigger Rate > 2
+240228,Trigger Rate > 2
+240230,Trigger Rate > 2
+240231,Trigger Rate > 2
+240236,Trigger Rate > 2
+240237,Trigger Rate > 2
+240243,Trigger Rate > 2
+240249,Trigger Rate > 2
+240250,Trigger Rate > 2
+240262,Trigger Rate > 2
+240263,Trigger Rate > 2
+240301,Trigger Rate > 2
+240302,Trigger Rate > 2
+240306,Trigger Rate > 2
+240307,Trigger Rate > 2
+240341,Trigger Rate > 2
+240342,Trigger Rate > 2
+240349,Trigger Rate > 2
+240356,Trigger Rate > 2
+240373,Trigger Rate > 2
+240379,Trigger Rate > 2
+240380,Trigger Rate > 2
+240388,Trigger Rate > 2
+240389,Trigger Rate > 2
+240404,Trigger Rate > 2
+240405,Trigger Rate > 2
+240406,Trigger Rate > 2
+240407,Trigger Rate > 2
+240408,Trigger Rate > 2
+240415,Trigger Rate > 2
+240439,Trigger Rate > 2
+240448,Running LT trigger only to check if we can see the GUNK in the Saltzman hole
+240532,Trigger Rate > 2
+240536,Trigger Rate > 2
+240537,Trigger Rate > 2
+240542,Trigger Rate > 2
+240543,Trigger Rate > 2
+240547,Trigger Rate > 2
+240548,Trigger Rate > 2
+240556,Trigger Rate > 2
+240557,Trigger Rate > 2
+240558,Trigger Rate > 2
+240559,Trigger Rate > 2
+240560,Trigger Rate > 2
+240592,coax sweep
+240593,fib0 sweep
+240594,fib1 sweep
+240619,Trigger Rate > 2
+240628,Trigger Rate > 2
+240636,Trigger Rate > 2
+240638,Trigger Rate > 2
+240639,Trigger Rate > 2
+240679,Trigger Rate > 2
+240730,Trigger Rate > 2
+240731,Trigger Rate > 2
+240742,Test: Record flower waveforms after the DAQ run.
+240743,Calibration run. Manual attenuation sweep with fiber0: atten=0 dB. Record flower waveforms after the DAQ run.
+240744,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+240745,Calibration run. Manual attenuation sweep with fiber0: atten=14 dB. Record flower waveforms after the DAQ run.
+240746,Calibration run. Manual attenuation sweep with fiber0: atten=12 dB. Record flower waveforms after the DAQ run.
+240747,Calibration run. Manual attenuation sweep with fiber0: atten=18 dB. Record flower waveforms after the DAQ run.
+240748,Calibration run. Manual attenuation sweep with fiber0: atten=16 dB. Record flower waveforms after the DAQ run.
+240749,Calibration run. Manual attenuation sweep with fiber0: atten=20 dB. Record flower waveforms after the DAQ run.
+240750,Calibration run. Manual attenuation sweep with fiber0: atten=22 dB. Record flower waveforms after the DAQ run.
+240751,Calibration run. Manual attenuation sweep with fiber0: atten=24 dB. Record flower waveforms after the DAQ run.
+240752,Calibration run. Manual attenuation sweep with fiber0: atten=26 dB. Record flower waveforms after the DAQ run.
+240753,Calibration run. Manual attenuation sweep with fiber0: atten=2 dB. Record flower waveforms after the DAQ run.
+240754,Calibration run. Manual attenuation sweep with fiber0: atten=28 dB. Record flower waveforms after the DAQ run.
+240755,Calibration run. Manual attenuation sweep with fiber0: atten=30 dB. Record flower waveforms after the DAQ run.
+240756,Calibration run. Manual attenuation sweep with fiber0: atten=31.5 dB. Record flower waveforms after the DAQ run.
+240757,Calibration run. Manual attenuation sweep with fiber0: atten=4 dB. Record flower waveforms after the DAQ run.
+240758,Calibration run. Manual attenuation sweep with fiber0: atten=6 dB. Record flower waveforms after the DAQ run.
+240759,Calibration run. Manual attenuation sweep with fiber0: atten=8 dB. Record flower waveforms after the DAQ run.
+240760,Calibration run. Manual attenuation sweep with fiber0: atten=0 dB. Record flower waveforms after the DAQ run.
+240761,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+240762,Calibration run. Manual attenuation sweep with fiber0: atten=14 dB. Record flower waveforms after the DAQ run.
+240779,Trigger Rate > 2
+240780,Trigger Rate > 2
+240781,Trigger Rate > 2
+240784,Trigger Rate > 2
+240788,Trigger Rate > 2
+240805,Trigger Rate > 2
+240807,Trigger Rate > 2
+240808,Trigger Rate > 2
+240809,Trigger Rate > 2
+240810,Trigger Rate > 2
+240811,Trigger Rate > 2
+240812,Trigger Rate > 2
+240813,Trigger Rate > 2
+240814,Trigger Rate > 2
+240815,Trigger Rate > 2
+240816,Trigger Rate > 2
+240817,Trigger Rate > 2
+240818,Trigger Rate > 2
+240879,Trigger Rate > 2
+240880,Trigger Rate > 2
+240890,Trigger Rate > 2
+240891,Trigger Rate > 2
+240892,Trigger Rate > 2
+240893,Trigger Rate > 2
+240894,Trigger Rate > 2
+240898,Trigger Rate > 2
+240998,Trigger Rate > 2
+240999,Trigger Rate > 2
+241000,Trigger Rate > 2
+241004,Trigger Rate > 2
+241005,Trigger Rate > 2
+241006,Trigger Rate > 2
+241007,Trigger Rate > 2
+241008,Trigger Rate > 2
+241009,Trigger Rate > 2
+241010,Trigger Rate > 2
+241011,Trigger Rate > 2
+241012,Trigger Rate > 2
+241013,Trigger Rate > 2
+241014,Trigger Rate > 2
+241015,Trigger Rate > 2
+241016,Trigger Rate > 2
+241017,Trigger Rate > 2
+241022,Trigger Rate > 2
+241023,Trigger Rate > 2
+241024,Trigger Rate > 2
+241032,Trigger Rate > 2
+241033,Trigger Rate > 2
+241034,Trigger Rate > 2
+241043,Trigger Rate > 2
+241044,Trigger Rate > 2
+241045,Trigger Rate > 2
+241048,Trigger Rate > 2
+241055,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+241056,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+241057,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+241058,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+241059,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+241060,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+241061,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+241062,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+241063,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+241064,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+241065,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+241066,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+241067,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+241068,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+241069,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+241070,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+241071,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+241072,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+241073,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+241074,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+241075,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+241076,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+684,Failed power stability check
+694,Failed power stability check
+695,Failed power stability check
+696,Failed power stability check
+704,Failed power stability check
+705,Failed power stability check
+706,Failed power stability check
+707,Failed power stability check
+708,Failed power stability check
+709,Failed power stability check
+1290,Failed RMS Check
+240650,Failed RMS Check
+1809,Failed RMS Check
+240279,Failed RMS Check
+4379,Failed RMS Check
+4251,Failed RMS Check
+4381,Failed RMS Check
+240287,Failed RMS Check
+240932,Failed RMS Check
+2855,Failed RMS Check
+240683,Failed RMS Check
+240696,Failed RMS Check
+4158,Failed RMS Check
+240446,Failed RMS Check
+240706,Failed RMS Check
+1492,Failed RMS Check
+240340,Failed RMS Check
+240732,Failed RMS Check

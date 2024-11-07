@@ -1,0 +1,205 @@
+Run Number,Comment
+230,Trigger Rate > 2
+237,
+238,
+239,
+240,
+241,
+242,
+323,
+324,
+327,
+328,
+543,special run (single antenna trigger)
+871,"Calibration run (PA trigger, 0dB attenuation, fiber0, pulser)"
+872,"Calibration run (PA trigger, 0dB attenuation, fiber0, pulser)"
+873,"Calibration run (PA trigger, 5dB attenuation, fiber0, pulser)"
+874,"Calibration run (PA trigger, 10dB attenuation, fiber0, pulser)"
+875,"Calibration run (PA trigger, 5dB attenuation, fiber0, pulser)"
+876,"Calibration run (PA trigger, 0dB attenuation, fiber0, pulser)"
+877,"Calibration run (PA trigger, 0dB attenuation, fiber1, pulser)"
+878,"Calibration run (PA trigger, 5dB attenuation, fiber1, pulser)"
+879,"Calibration run (PA trigger, 10dB attenuation, fiber1, pulser)"
+880,"Calibration run (forced trigger, 5dB attenuation, fiber1, vco)"
+881,"Calibration run (forced trigger, 5dB attenuation, fiber0, vco)"
+888,"Calibration run (PPS trigger, odB attenuation, surface pulser, 0.0mus time offset)"
+889,"Calibration run (PPS trigger, odB attenuation, surface pulser, 0.2mus time offset)"
+890,"Calibration run (PPS trigger, 0dB attenuation, surface pulser, 0.3mus time offset)"
+891,"Calibration run (PPS trigger, 0dB attenuation, surface pulser, 0.4mus time offset)"
+892,"Calibration run (PPS trigger, 0dB attenuation, surface pulser, 0.6mus time offset)"
+893,"Calibration run (PPS trigger, 0dB attenuation, surface pulser, 0.8mus time offset)"
+894,"Calibration run (PPS trigger, 0dB attenuation, surface pulser, 1.0mus time offset)"
+895,"Calibration run (PPS trigger, 0dB attenuation, surface pulser, 1.2mus time offset)"
+896,"Calibration run (PPS trigger, 0dB attenuation, surface pulser, 1.4mus time offset)"
+897,"Calibration run (PPS trigger, 0dB attenuation, surface pulser, 1.6mus time offset)"
+898,"Calibration run (PPS trigger, 0dB attenuation, surface pulser, 1.8mus time offset)"
+899,"Calibration run (PPS trigger, 0dB attenuation, surface pulser, 2.0mus time offset)"
+905,
+906,
+907,
+908,
+909,
+910,
+911,
+912,
+913,
+914,
+915,
+916,
+917,
+918,
+919,
+920,
+921,
+922,
+923,
+924,
+925,
+926,
+927,
+931,atten sweep
+937,
+1169,Trigger Rate > 2
+1170,Trigger Rate > 2
+1171,Trigger Rate > 2
+1172,Trigger Rate > 2
+1716,Trigger Rate > 2
+1765,Trigger Rate > 2
+1766,Trigger Rate > 2
+1821,
+1886,
+2032,Trigger Rate > 2
+2333,Trigger Rate > 2
+2746,fib0 sweep
+2747,fib1 sweep
+2748,fib0 sweep
+2749,
+2751,Trigger Rate > 2
+2752,Trigger Rate > 2
+2753,Trigger Rate > 2
+2754,Trigger Rate > 2
+2755,Trigger Rate > 2
+2756,Trigger Rate > 2
+2757,Trigger Rate > 2
+3015,Trigger Rate > 2
+3016,Trigger Rate > 2
+3074,Trigger Rate > 2
+3075,Trigger Rate > 2
+3255,Trigger Rate > 2
+3509,Trigger Rate > 2
+3510,Trigger Rate > 2
+3511,Trigger Rate > 2
+3512,Trigger Rate > 2
+3513,Trigger Rate > 2
+3514,Trigger Rate > 2
+3515,Trigger Rate > 2
+3516,Trigger Rate > 2
+3517,Trigger Rate > 2
+3518,Trigger Rate > 2
+3519,Trigger Rate > 2
+3520,Trigger Rate > 2
+3521,Trigger Rate > 2
+3522,Trigger Rate > 2
+3523,Trigger Rate > 2
+3524,Trigger Rate > 2
+3525,Trigger Rate > 2
+3526,Trigger Rate > 2
+3527,Trigger Rate > 2
+3528,Trigger Rate > 2
+3529,Trigger Rate > 2
+3530,Trigger Rate > 2
+3531,Trigger Rate > 2
+3532,Trigger Rate > 2
+3533,Trigger Rate > 2
+3534,Trigger Rate > 2
+3535,Trigger Rate > 2
+3536,Trigger Rate > 2
+3537,Trigger Rate > 2
+3538,Trigger Rate > 2
+3539,Trigger Rate > 2
+3540,Trigger Rate > 2
+3541,Trigger Rate > 2
+3542,Trigger Rate > 2
+3543,Trigger Rate > 2
+3544,Trigger Rate > 2
+3545,Trigger Rate > 2
+3546,Trigger Rate > 2
+3547,Trigger Rate > 2
+3548,Trigger Rate > 2
+3549,Trigger Rate > 2
+3550,Trigger Rate > 2
+3551,Trigger Rate > 2
+3552,Trigger Rate > 2
+3553,Trigger Rate > 2
+3554,Trigger Rate > 2
+3555,Trigger Rate > 2
+3556,Trigger Rate > 2
+3557,Trigger Rate > 2
+3558,Trigger Rate > 2
+3559,Trigger Rate > 2
+3560,Trigger Rate > 2
+3561,Trigger Rate > 2
+3562,Trigger Rate > 2
+3563,Trigger Rate > 2
+3564,Trigger Rate > 2
+3565,Trigger Rate > 2
+3566,Trigger Rate > 2
+3567,Trigger Rate > 2
+3568,Trigger Rate > 2
+3569,Trigger Rate > 2
+3570,Trigger Rate > 2
+3571,Trigger Rate > 2
+3572,Trigger Rate > 2
+3573,Trigger Rate > 2
+3574,Trigger Rate > 2
+3575,Trigger Rate > 2
+3576,Trigger Rate > 2
+3577,Trigger Rate > 2
+3578,Trigger Rate > 2
+3579,Trigger Rate > 2
+3580,Trigger Rate > 2
+3581,Trigger Rate > 2
+3582,Trigger Rate > 2
+3583,Trigger Rate > 2
+3584,Trigger Rate > 2
+3585,Trigger Rate > 2
+3586,Trigger Rate > 2
+3587,Trigger Rate > 2
+3588,Trigger Rate > 2
+3589,Trigger Rate > 2
+3590,Trigger Rate > 2
+3591,Trigger Rate > 2
+3592,Trigger Rate > 2
+3593,Trigger Rate > 2
+3594,Trigger Rate > 2
+3595,Trigger Rate > 2
+3596,Trigger Rate > 2
+3597,Trigger Rate > 2
+3598,Trigger Rate > 2
+3599,Trigger Rate > 2
+3600,Trigger Rate > 2
+3601,Trigger Rate > 2
+3602,Trigger Rate > 2
+3603,Trigger Rate > 2
+3604,Trigger Rate > 2
+3605,Trigger Rate > 2
+3606,Trigger Rate > 2
+3607,Trigger Rate > 2
+3608,Trigger Rate > 2
+3609,Trigger Rate > 2
+3610,Trigger Rate > 2
+3611,Trigger Rate > 2
+3612,Trigger Rate > 2
+3613,Trigger Rate > 2
+240005,Trigger Rate > 2
+240157,coax sweep
+240158,fib0 sweep
+240159,fib1 sweep
+240181,Trigger Rate > 2
+240198,coax sweep
+240199,fib0 sweep
+240200,fib1 sweep
+96,Failed RMS Check
+240338,Failed RMS Check
+3766,Failed RMS Check
+3614,Failed RMS Check

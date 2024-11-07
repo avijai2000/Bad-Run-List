@@ -1,0 +1,353 @@
+Run Number,Comment
+1,test data to figure out what is going on
+2,test data to figure out what is going on
+80,Trigger Rate > 2
+87,changing to upward and downward facing trigger
+88,testing initial threshold of 1.2 for surface channel
+89,testing initial threshold of 0.7 for surface channel
+90,"testing: scalar goal of surface to 0, except for cha 16"
+91,"testing: scalar goal of surface to 0, except for cha 17"
+92,"testing: scalar goal of surface to 0, except for cha 15"
+93,testing
+94,
+320,Trigger Rate > 2
+342,
+343,
+363,
+364,
+365,
+382,
+383,
+384,
+390,
+404,
+405,
+406,
+407,
+408,
+414,
+419,
+420,
+421,
+422,
+424,
+425,
+426,
+427,
+428,
+429,
+430,
+431,
+465,
+466,
+469,
+470,
+635,only RF0 active
+636,only RF1 active
+982,"Calibration pulsing (PA trigger, fiber0,10dB attenuation, pulser)"
+983,"Calibration pulsing (PA trigger, fiber0,10dB attenuation, pulser)"
+984,"Calibration pulsing (PA trigger, fiber0, 5dB attenuation, pulser)"
+985,"Calibration pulsing (PA trigger, fiber0, 0dB attenuation, pulser)"
+988,"Calibration pulser run (PA trigger, fiber1, 0dB attenuation, pulser)"
+989,"Calibration pulser run (PA trigger, fiber1, 5dB attenuation, pulser)"
+990,"Calibration pulser run (PA trigger, fiber1, 10dB attenuation, pulser)"
+991,"Calibration pulser run (PA trigger, fiber1, 10dB attenuation, pulser)"
+992,"Calibration pulser run (PA trigger, fiber1, 10dB attenuation, pulser)"
+1042,"Calibration run (PPS trigger, 0dB attenuation, 0.2mus time offset, surface pulser,)"
+1043,"Calibration run (PPS trigger, 0dB attenuation, 0.4mus time offset, surface pulser,)"
+1044,"Calibration run (PPS trigger, 0dB attenuation, 0.3mus time offset, surface pulser,)"
+1045,"Calibration run (PPS trigger, 0dB attenuation, 0.6mus time offset, surface pulser,)"
+1046,"Calibration run (PPS trigger, 0dB attenuation, 0.8mus time offset, surface pulser,)"
+1047,"Calibration run (PPS trigger, 0dB attenuation, 1.0mus time offset, surface pulser,)"
+1058,
+1059,
+1060,
+1061,
+1062,
+1063,
+1064,
+1065,
+1066,
+1067,
+1068,
+1069,
+1070,
+1071,
+1072,
+1073,
+1074,
+1075,
+1076,
+1077,
+1078,
+1079,
+1080,
+1081,
+1082,
+1295,Trigger Rate > 2
+1671,Trigger Rate > 2
+1736,Trigger Rate > 2
+1777,Trigger Rate > 2
+1778,Trigger Rate > 2
+1796,fib0 sweep
+1797,fib0 sweep
+2040,bermtop pulsing
+2041,bermtop pulsing
+2042,bermtop pulsing
+2043,bermtop pulsing
+2280,Trigger Rate > 2
+3126,fib0 sweep
+3127,fib1 sweep
+3128,fib0 sweep
+3130,
+3293,Trigger Rate > 2
+3294,Trigger Rate > 2
+3295,Trigger Rate > 2
+3296,Trigger Rate > 2
+3297,Trigger Rate > 2
+3299,Trigger Rate > 2
+3891,Trigger Rate > 2
+3892,Trigger Rate > 2
+3893,Trigger Rate > 2
+3894,Trigger Rate > 2
+3897,Trigger Rate > 2
+3898,Trigger Rate > 2
+3909,Trigger Rate > 2
+3949,Trigger Rate > 2
+3967,Trigger Rate > 2
+3974,Trigger Rate > 2
+3981,Trigger Rate > 2
+50000,Test runs after daq swap
+50003,"Namespace(frequency=1, duration=30, comment='Test calibration run. Fiber1 5 dB', host='10.3.0.41', config='stationrc/remote_control/conf/acq.calib.cfg', filename=None, eventbrowser=False, plot=False, calib_channel='fiber1', calib_type='pulser', enable_calib=True, attenuation=5.0, trigger=['flower'])"
+50004,"Namespace(frequency=1, duration=30, comment='Test calibration run. Fiber1 5 dB', host='10.3.0.41', config='stationrc/remote_control/conf/acq.calib.cfg', filename=None, eventbrowser=False, plot=False, calib_channel='fiber1', calib_type='pulser', enable_calib=True, attenuation=5.0, trigger=['flower'])"
+50006,Test run after daq swap
+50007,Test run after daq swap
+50008,Test run after daq swap
+50009,Test run after daq swap
+50010,Test run after daq swap
+240052,Trigger Rate > 2
+240053,Trigger Rate > 2
+240054,Trigger Rate > 2
+240147,Trigger Rate > 2
+240155,Trigger Rate > 2
+240156,Trigger Rate > 2
+240171,Trigger Rate > 2
+240172,Trigger Rate > 2
+240182,Trigger Rate > 2
+240206,Trigger Rate > 2
+240326,Trigger Rate > 2
+240370,Trigger Rate > 2
+240372,fib0 sweep
+240373,coax sweep
+240374,fib1 sweep
+240503,Recording flower waveforms before and after the daq run.
+240513,Recording flower waveforms after the daq run.
+240520,Trigger Rate > 2
+240521,Trigger Rate > 2
+240529,Trigger Rate > 2
+240550,Trigger Rate > 2
+240551,Trigger Rate > 2
+240552,Trigger Rate > 2
+240553,Trigger Rate > 2
+240554,Trigger Rate > 2
+240555,Trigger Rate > 2
+240556,Trigger Rate > 2
+240628,Trigger Rate > 2
+240629,Trigger Rate > 2
+240630,Trigger Rate > 2
+240726,Trigger Rate > 2
+240727,Trigger Rate > 2
+240728,Trigger Rate > 2
+240730,Trigger Rate > 2
+240734,Trigger Rate > 2
+240735,Trigger Rate > 2
+240736,Trigger Rate > 2
+240738,Trigger Rate > 2
+240739,Trigger Rate > 2
+240740,Trigger Rate > 2
+240741,Trigger Rate > 2
+240742,Trigger Rate > 2
+240761,Trigger Rate > 2
+240790,Calibration run. Manual attenuation sweep with fiber0: atten=0 dB. Record flower waveforms after the DAQ run.
+240791,Calibration run. Manual attenuation sweep with fiber0: atten=10.5 dB. Record flower waveforms after the DAQ run.
+240792,Calibration run. Manual attenuation sweep with fiber0: atten=10 dB. Record flower waveforms after the DAQ run.
+240793,Calibration run. Manual attenuation sweep with fiber0: atten=11.5 dB. Record flower waveforms after the DAQ run.
+240794,Calibration run. Manual attenuation sweep with fiber0: atten=11 dB. Record flower waveforms after the DAQ run.
+240795,Calibration run. Manual attenuation sweep with fiber0: atten=12.5 dB. Record flower waveforms after the DAQ run.
+240796,Calibration run. Manual attenuation sweep with fiber0: atten=13.5 dB. Record flower waveforms after the DAQ run.
+240797,Calibration run. Manual attenuation sweep with fiber0: atten=12 dB. Record flower waveforms after the DAQ run.
+240798,Calibration run. Manual attenuation sweep with fiber0: atten=13 dB. Record flower waveforms after the DAQ run.
+240799,Calibration run. Manual attenuation sweep with fiber0: atten=14.5 dB. Record flower waveforms after the DAQ run.
+240800,Calibration run. Manual attenuation sweep with fiber0: atten=14 dB. Record flower waveforms after the DAQ run.
+240801,Calibration run. Manual attenuation sweep with fiber0: atten=15.5 dB. Record flower waveforms after the DAQ run.
+240802,Calibration run. Manual attenuation sweep with fiber0: atten=15 dB. Record flower waveforms after the DAQ run.
+240803,Calibration run. Manual attenuation sweep with fiber0: atten=16.5 dB. Record flower waveforms after the DAQ run.
+240804,Calibration run. Manual attenuation sweep with fiber0: atten=16 dB. Record flower waveforms after the DAQ run.
+240805,Calibration run. Manual attenuation sweep with fiber0: atten=17.5 dB. Record flower waveforms after the DAQ run.
+240806,Calibration run. Manual attenuation sweep with fiber0: atten=17 dB. Record flower waveforms after the DAQ run.
+240807,Calibration run. Manual attenuation sweep with fiber0: atten=18.5 dB. Record flower waveforms after the DAQ run.
+240808,Calibration run. Manual attenuation sweep with fiber0: atten=18 dB. Record flower waveforms after the DAQ run.
+240809,Calibration run. Manual attenuation sweep with fiber0: atten=19.5 dB. Record flower waveforms after the DAQ run.
+240810,Calibration run. Manual attenuation sweep with fiber0: atten=19 dB. Record flower waveforms after the DAQ run.
+240811,Calibration run. Manual attenuation sweep with fiber0: atten=1 dB. Record flower waveforms after the DAQ run.
+240812,Calibration run. Manual attenuation sweep with fiber0: atten=20.5 dB. Record flower waveforms after the DAQ run.
+240813,Calibration run. Manual attenuation sweep with fiber0: atten=20 dB. Record flower waveforms after the DAQ run.
+240814,Calibration run. Manual attenuation sweep with fiber0: atten=21 dB. Record flower waveforms after the DAQ run.
+240815,Calibration run. Manual attenuation sweep with fiber0: atten=22 dB. Record flower waveforms after the DAQ run.
+240816,Calibration run. Manual attenuation sweep with fiber0: atten=23 dB. Record flower waveforms after the DAQ run.
+240817,Calibration run. Manual attenuation sweep with fiber0: atten=25 dB. Record flower waveforms after the DAQ run.
+240818,Calibration run. Manual attenuation sweep with fiber0: atten=24 dB. Record flower waveforms after the DAQ run.
+240819,Calibration run. Manual attenuation sweep with fiber0: atten=26 dB. Record flower waveforms after the DAQ run.
+240820,Calibration run. Manual attenuation sweep with fiber0: atten=27 dB. Record flower waveforms after the DAQ run.
+240821,Calibration run. Manual attenuation sweep with fiber0: atten=28 dB. Record flower waveforms after the DAQ run.
+240822,Calibration run. Manual attenuation sweep with fiber0: atten=29 dB. Record flower waveforms after the DAQ run.
+240823,Calibration run. Manual attenuation sweep with fiber0: atten=2 dB. Record flower waveforms after the DAQ run.
+240824,Calibration run. Manual attenuation sweep with fiber0: atten=30 dB. Record flower waveforms after the DAQ run.
+240825,Calibration run. Manual attenuation sweep with fiber0: atten=3 dB. Record flower waveforms after the DAQ run.
+240826,Calibration run. Manual attenuation sweep with fiber0: atten=4 dB. Record flower waveforms after the DAQ run.
+240827,Calibration run. Manual attenuation sweep with fiber0: atten=5.5 dB. Record flower waveforms after the DAQ run.
+240828,Calibration run. Manual attenuation sweep with fiber0: atten=5 dB. Record flower waveforms after the DAQ run.
+240829,Calibration run. Manual attenuation sweep with fiber0: atten=6.5 dB. Record flower waveforms after the DAQ run.
+240830,Calibration run. Manual attenuation sweep with fiber0: atten=6 dB. Record flower waveforms after the DAQ run.
+240831,Calibration run. Manual attenuation sweep with fiber0: atten=7.5 dB. Record flower waveforms after the DAQ run.
+240832,Calibration run. Manual attenuation sweep with fiber0: atten=7 dB. Record flower waveforms after the DAQ run.
+240833,Calibration run. Manual attenuation sweep with fiber0: atten=8.5 dB. Record flower waveforms after the DAQ run.
+240834,Calibration run. Manual attenuation sweep with fiber0: atten=8 dB. Record flower waveforms after the DAQ run.
+240835,Calibration run. Manual attenuation sweep with fiber0: atten=9.5 dB. Record flower waveforms after the DAQ run.
+240836,Calibration run. Manual attenuation sweep with fiber0: atten=9 dB. Record flower waveforms after the DAQ run.
+240640,Failed RMS Check
+240641,Failed RMS Check
+240642,Failed RMS Check
+240643,Failed RMS Check
+240644,Failed RMS Check
+240645,Failed RMS Check
+240646,Failed RMS Check
+240647,Failed RMS Check
+240648,Failed RMS Check
+13,Failed RMS Check
+3135,Failed RMS Check
+3136,Failed RMS Check
+240181,Failed RMS Check
+240183,Failed RMS Check
+240184,Failed RMS Check
+240185,Failed RMS Check
+240186,Failed RMS Check
+240187,Failed RMS Check
+240188,Failed RMS Check
+240189,Failed RMS Check
+240190,Failed RMS Check
+240191,Failed RMS Check
+240192,Failed RMS Check
+240193,Failed RMS Check
+240194,Failed RMS Check
+240195,Failed RMS Check
+240196,Failed RMS Check
+240197,Failed RMS Check
+240198,Failed RMS Check
+240199,Failed RMS Check
+240200,Failed RMS Check
+240201,Failed RMS Check
+240202,Failed RMS Check
+240203,Failed RMS Check
+240204,Failed RMS Check
+240205,Failed RMS Check
+3137,Failed RMS Check
+240207,Failed RMS Check
+240208,Failed RMS Check
+240209,Failed RMS Check
+240210,Failed RMS Check
+240211,Failed RMS Check
+240212,Failed RMS Check
+240213,Failed RMS Check
+240214,Failed RMS Check
+240215,Failed RMS Check
+240216,Failed RMS Check
+240217,Failed RMS Check
+240218,Failed RMS Check
+240219,Failed RMS Check
+240220,Failed RMS Check
+240221,Failed RMS Check
+240222,Failed RMS Check
+240223,Failed RMS Check
+240224,Failed RMS Check
+240225,Failed RMS Check
+240226,Failed RMS Check
+240227,Failed RMS Check
+240228,Failed RMS Check
+240229,Failed RMS Check
+240230,Failed RMS Check
+240231,Failed RMS Check
+3169,Failed RMS Check
+3292,Failed RMS Check
+3301,Failed RMS Check
+3895,Failed RMS Check
+240000,Failed RMS Check
+240001,Failed RMS Check
+240002,Failed RMS Check
+240003,Failed RMS Check
+240004,Failed RMS Check
+240005,Failed RMS Check
+240006,Failed RMS Check
+240007,Failed RMS Check
+240008,Failed RMS Check
+240009,Failed RMS Check
+240010,Failed RMS Check
+240011,Failed RMS Check
+240012,Failed RMS Check
+240013,Failed RMS Check
+240014,Failed RMS Check
+240015,Failed RMS Check
+240016,Failed RMS Check
+240017,Failed RMS Check
+240018,Failed RMS Check
+240019,Failed RMS Check
+240020,Failed RMS Check
+240021,Failed RMS Check
+240022,Failed RMS Check
+240023,Failed RMS Check
+240024,Failed RMS Check
+240025,Failed RMS Check
+240026,Failed RMS Check
+240027,Failed RMS Check
+240028,Failed RMS Check
+240029,Failed RMS Check
+240030,Failed RMS Check
+240031,Failed RMS Check
+240032,Failed RMS Check
+240033,Failed RMS Check
+240034,Failed RMS Check
+240035,Failed RMS Check
+240036,Failed RMS Check
+240037,Failed RMS Check
+240038,Failed RMS Check
+240039,Failed RMS Check
+240040,Failed RMS Check
+240041,Failed RMS Check
+240042,Failed RMS Check
+240043,Failed RMS Check
+240044,Failed RMS Check
+240045,Failed RMS Check
+240046,Failed RMS Check
+240047,Failed RMS Check
+240048,Failed RMS Check
+3131,Failed RMS Check
+3138,Failed RMS Check
+3139,Failed RMS Check
+3140,Failed RMS Check
+3141,Failed RMS Check
+3142,Failed RMS Check
+3143,Failed RMS Check
+3132,Failed RMS Check
+3144,Failed RMS Check
+3145,Failed RMS Check
+3146,Failed RMS Check
+3147,Failed RMS Check
+3148,Failed RMS Check
+3133,Failed RMS Check
+3149,Failed RMS Check
+3150,Failed RMS Check
+3151,Failed RMS Check
+3152,Failed RMS Check
+3153,Failed RMS Check
+3134,Failed RMS Check
+240639,Failed RMS Check

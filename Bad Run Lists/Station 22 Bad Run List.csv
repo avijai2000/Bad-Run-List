@@ -1,0 +1,402 @@
+Run Number,Comment
+4,Trigger Rate > 2
+5,Trigger Rate > 2
+6,Trigger Rate > 2
+7,Trigger Rate > 2
+8,Trigger Rate > 2
+9,Trigger Rate > 2
+11,Trigger Rate > 2
+12,Trigger Rate > 2
+13,Trigger Rate > 2
+14,Trigger Rate > 2
+15,Trigger Rate > 2
+18,Trigger Rate > 2
+19,Trigger Rate > 2
+20,Trigger Rate > 2
+21,Trigger Rate > 2
+22,Trigger Rate > 2
+23,Trigger Rate > 2
+24,Trigger Rate > 2
+79,Trigger Rate > 2
+80,Trigger Rate > 2
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,
+91,
+92,
+93,
+94,
+95,
+96,
+99,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+109,
+110,
+160,No Surface Trigger / Component for GPS Surveying of stations
+161,No Surface Trigger / Component for GPS Surveying of stations
+187,"berm-top pulser, first test"
+188,"berm-top pulser, deep trigger"
+189,"berm-top pulser, chn6 trigger"
+190,"berm-top pulser, chn6 trigger"
+191,"berm-top pulser, chn6 trigger"
+192,"berm-top pulser, chn6 trigger"
+193,"berm-top pulser, chn6 trigger"
+212,snowmobile going out to stations
+213,snowmobile going out to stations
+214,snowmobile going out to stations
+215,snowmobile going out to stations
+216,snowmobile going out to stations
+217,snowmobile going out to stations
+227,going out on snowmobile
+228,going out on snowmobile
+229,going out on snowmobile
+230,going out on snowmobile
+233,Trigger Rate > 2
+234,"berm top pulser, channel1"
+237,"berm top pulser, channel1"
+238,"berm top pulser, channel1"
+239,berm top pulser
+240,berm top pulser
+241,berm top pulser
+242,berm top pulser
+243,berm top pulser
+244,berm top pulser
+245,berm top pulser
+246,berm top pulser
+248,berm top pulser
+250,berm top pulser
+251,berm top pulser
+253,berm top pulser
+254,berm top pulser
+255,berm top pulser
+256,berm top pulser
+257,berm top pulser
+258,berm top pulser
+259,berm top pulser
+260,berm top pulser
+261,berm top pulser
+262,berm top pulser
+264,berm top pulser
+282,"gps surveying, surface off"
+283,"gps surveying, surface off"
+284,"gps surveying, surface off"
+285,"gps surveying, surface off"
+286,"gps surveying, surface off"
+287,"gps surveying, surface off"
+298,Pusling from south
+299,Pusling from south
+300,Pusling from East
+301,Pusling from East
+302,Pusling from North
+303,Pusling from North
+304,Pusling from West
+305,Pusling from West
+679,Trigger Rate > 2
+680,Trigger Rate > 2
+747,"in-situ pulsing, pulser  2, att=32"
+748,"in-situ pulsing, pulser  3, att=32"
+749,"in-situ pulsing, surface pulser, att=32"
+1000,Trigger Rate > 2
+1001,Trigger Rate > 2
+1002,Trigger Rate > 2
+1003,Trigger Rate > 2
+1004,Trigger Rate > 2
+1205,Trigger Rate > 2
+1222,changing to upward and downward facing trigger
+1496,Bermtop Pulsing Take 1 FID 40dB -> FID 52dB -> IDL-2 20dB Deep
+1497,Bermtop Pulsing Take 1 FID 40dB -> FID 52dB -> IDL-2 20dB Shallow
+1500,Bermtop Pulsing Take 2 FID 40dB -> FID 52dB -> IDL-2 20dB Deep
+1501,Bermtop Pulsing Take 2 FID 40dB -> FID 52dB -> IDL-2 20dB Shallow
+1657,changed servo_thresh_frac: 0.9->0.95
+1667,changed P-value(PID): 5->10
+1892,testing calpulser
+1893,testing calpulser
+1894,testing calpulser
+1895,testing calpulser
+1896,testing calpulser
+1897,testing calpulser
+1898,testing calpulser
+1899,testing calpulser
+1900,testing calpulser
+1901,testing calpulser
+1903,testing calpulser
+1904,testing calpulser
+1905,testing calpulser
+1906,testing calpulser
+1907,testing calpulser
+1908,testing calpulser
+1909,testing calpulser
+1910,testing calpulser
+1911,testing calpulser
+1912,testing calpulser
+1913,testing calpulser
+1914,testing calpulser
+1915,testing calpulser
+1916,testing calpulser
+1917,testing calpulser
+1918,testing calpulser
+1919,testing calpulser
+1920,testing calpulser
+1921,testing calpulser
+1922,testing calpulser
+1923,testing calpulser
+1924,testing calpulser
+1925,testing calpulser
+1926,testing calpulser
+1927,testing calpulser
+1928,testing calpulser
+1929,testing calpulser
+1930,testing calpulser
+1931,testing calpulser
+1932,testing calpulser
+1933,testing calpulser
+2033,Trigger Rate > 2
+2057,"Calibration Run (PA trigger, 0dB attenuation, fiber1, pulser)"
+2058,"Calibration Run (PA trigger, 5dB attenuation, fiber1, pulser)"
+2059,"Calibration Run (PA trigger, 10dB attenuation, fiber1, pulser)"
+2060,"Calibration Run (PA trigger, 10dB attenuation, fiber1, pulser)"
+2070,"Calibration run (PA trigger, 5dB attenuation, fiber1, pulser)"
+2071,"Calibration run (PA trigger, 5dB attenuation, fiber1, pulser)"
+2072,"Calibration run (PA trigger, 5dB attenuation, fiber1, pulser)"
+2073,"Calibration run (PA trigger, 5dB attenuation, fiber1, pulser)"
+2074,"Calibration run (PA trigger, 5dB attenuation, fiber1, pulser)"
+2075,"Calibration run (PA trigger, 5dB attenuation, fiber1, pulser)"
+2076,"Calibration run (PA trigger, 5dB attenuation, fiber1, pulser)"
+2077,"Calibration run (PA trigger, 5dB attenuation, fiber1, pulser)"
+2078,"Calibration run (PA trigger, 5dB attenuation, fiber1, pulser)"
+2079,"Calibration run (PA trigger, 5dB attenuation, fiber1, pulser)"
+2080,"Calibration run (PA trigger, 5dB attenuation, fiber1, pulser)"
+2081,"Calibration run (PA trigger, 5dB attenuation, fiber1, pulser)"
+2082,"Calibration run (PA trigger, 5dB attenuation, fiber1, pulser)"
+2083,"Calibration run (PA trigger, 5dB attenuation, fiber1, pulser)"
+2084,"Calibration run (PA trigger, 5dB attenuation, fiber1, pulser)"
+2085,"Calibration run (PA trigger, 5dB attenuation, fiber1, pulser)"
+2086,"Calibration run (PA trigger, 5dB attenuation, fiber1, pulser)"
+2087,"Calibration run (PA trigger, 5dB attenuation, fiber1, pulser)"
+2088,"Calibration run (PA trigger, 5dB attenuation, fiber1, pulser)"
+2089,"Calibration run (PA trigger, 10dB attenuation, fiber1, pulser)"
+2090,"Calibration run (PA trigger, 5dB attenuation, fiber1, pulser)"
+2091,"Calibration run (PA trigger, 0dB attenuation, fiber1, pulser)"
+2093,"Calibration run (forced trigger, 5dB attenuation, fiber1, vco)"
+2104,"Calibration run (PPS trigger, 0dB attenuation, surface, 0.0mus time offset)"
+2105,"Calibration run (PPS trigger, 0dB attenuation, surface, 0.2mus time offset)"
+2106,"Calibration run (PPS trigger, 0dB attenuation, surface, 0.4mus time offset)"
+2107,"Calibration run (PPS trigger, 0dB attenuation, surface, 0.6mus time offset)"
+2108,"Calibration run (PPS trigger, 0dB attenuation, surface, 0.8mus time offset)"
+2109,"Calibration run (PPS trigger, 0dB attenuation, surface, 1.0mus time offset)"
+2110,"Calibration run (PPS trigger, 0dB attenuation, surface, 0.5mus time offset)"
+2111,"Calibration run (PPS trigger, 0dB attenuation, surface, 1.2mus time offset)"
+2112,"Calibration run (PPS trigger, 0dB attenuation, surface, 1.4mus time offset)"
+2113,"Calibration run (PPS trigger, 0dB attenuation, surface, 1.6mus time offset)"
+2114,"Calibration run (PPS trigger, 0dB attenuation, surface, 1.8mus time offset)"
+2115,"Calibration run (PPS trigger, 0dB attenuation, surface, 2.0mus time offset)"
+2129,
+2130,
+2131,
+2132,
+2133,
+2134,
+2135,
+2136,
+2137,
+2138,
+2139,
+2140,
+2141,
+2142,
+2143,
+2144,
+2145,
+2146,
+2147,
+2148,
+2149,
+2225,Trigger Rate > 2
+2267,Trigger Rate > 2
+2268,bermtop pulsing
+2269,bermtop pulsing
+2270,bermtop pulsing
+2297,
+5011,"Namespace(frequency=1, duration=10, comment='Test calibration run. Fiber1 5 dB', host='st22', config='stationrc/remote_control/conf/acq.calib.cfg', filename=None, eventbrowser=False, plot=False, calib_channel='fiber1', calib_type='pulser', enable_calib=True, attenuation=5.0, trigger=['flower'])"
+5013,Test run after daq swap
+5014,Test run after daq swap
+5015,Test run after daq swap
+5016,Test run after daq swap
+5017,Test run after daq swap
+5018,Test run after daq swap
+5019,Test run after daq swap
+5020,Test run after daq swap
+5021,Test run after daq swap
+5022,Test run after daq swap
+5023,Test run after daq swap
+5024,Test run after daq swap
+240000,Test run after daq swap
+240001,Test run after daq swap
+240002,Test run after daq swap
+240003,Test run after daq swap
+240004,Test run after daq swap
+240005,Test run after daq swap
+240006,Test run after daq swap
+240007,Test run after daq swap
+240008,Test run after daq swap
+240009,Test run after daq swap
+240010,Test run after daq swap
+240011,Test run after daq swap
+240012,Test run after daq swap
+240013,Test run after daq swap
+240014,Test run after daq swap
+240015,Test run after daq swap
+240016,Test run after daq swap
+240017,Test run after daq swap
+240018,Test run after daq swap
+240019,Test run after daq swap
+240020,Test run after daq swap
+240021,Test run after daq swap
+240022,Test run after daq swap
+240023,Test run after daq swap
+240024,Test run after daq swap
+240025,Test run after daq swap
+240026,Test run after daq swap
+240027,Test run after daq swap
+240028,Test run after daq swap
+240029,Test run after daq swap
+240030,Test run after daq swap
+240031,Test run after daq swap
+240032,Test run after daq swap
+240033,Test run after daq swap
+240034,Test run after daq swap
+240035,Test run after daq swap
+240036,Test run after daq swap
+240037,Test run after daq swap
+240038,Test run after daq swap
+240039,Test run after daq swap
+240040,Test run after daq swap
+240041,Test run after daq swap
+240042,Test run after daq swap
+240043,Test run after daq swap
+240044,Test run after daq swap
+240045,Test run after daq swap
+240046,Test run after daq swap
+240047,Test run after daq swap
+240048,Test run after daq swap
+240049,Test run after daq swap
+240050,Test run after daq swap
+240051,Test run after daq swap
+240052,Test run after daq swap
+240053,Test run after daq swap
+240054,Test run after daq swap
+240055,Test run after daq swap
+240056,Test run after daq swap
+240057,Test run after daq swap
+240058,Test run after daq swap
+240059,Test run after daq swap
+240060,Test run after daq swap
+240061,Test run after daq swap
+240062,Test run after daq swap
+240063,Test run after daq swap
+240064,Test run after daq swap
+240065,Test run after daq swap
+240066,Test run after daq swap
+240067,Test run after daq swap
+240068,Test run after daq swap
+240069,Test run after daq swap
+240070,Test run after daq swap
+240071,Test run after daq swap
+240072,Test run after daq swap
+240073,Test run after daq swap
+240074,Test run after daq swap
+240075,Test run after daq swap
+240076,Test run after daq swap
+240077,Test run after daq swap
+240078,Test run after daq swap
+240079,Test run after daq swap
+240080,Test run after daq swap
+240081,Test run after daq swap
+240082,Test run after daq swap
+240083,Test run after daq swap
+240084,Test run after daq swap
+240085,Test run after daq swap
+240086,Test run after daq swap
+240087,Test run after daq swap
+240088,Test run after daq swap
+240089,Test run after daq swap
+240090,Test run after daq swap
+240091,Test run after daq swap
+240092,Test run after daq swap
+240093,Test run after daq swap
+240094,Test run after daq swap
+240098,Trigger Rate > 2
+240103,Trigger Rate > 2
+240179,Trigger Rate > 2
+240180,Trigger Rate > 2
+240181,Trigger Rate > 2
+240255,Trigger Rate > 2
+240256,Trigger Rate > 2
+240279,Trigger Rate > 2
+240314,Trigger Rate > 2
+240323,Running LT trigger only to check if we can see the GUNK in the Saltzman hole
+240325,Trigger Rate > 2
+240408,fib0 sweep
+240409,fib1 sweep
+240432,Trigger Rate > 2
+240455,coax sweep
+240456,fib0 sweep
+240457,fib1 sweep
+240499,Trigger Rate > 2
+240596,Trigger Rate > 2
+240623,Trigger Rate > 2
+240624,Trigger Rate > 2
+240625,Trigger Rate > 2
+240630,Trigger Rate > 2
+240655,Trigger Rate > 2
+240728,Trigger Rate > 2
+240729,Trigger Rate > 2
+240730,Trigger Rate > 2
+240731,Trigger Rate > 2
+240732,Trigger Rate > 2
+240742,Trigger Rate > 2
+240263,Failed RMS Check
+778,Failed RMS Check
+779,Failed RMS Check
+2188,Failed RMS Check
+2189,Failed RMS Check
+780,Failed RMS Check
+5012,Failed RMS Check
+2197,Failed RMS Check
+2210,Failed RMS Check
+240163,Failed RMS Check
+2223,Failed RMS Check
+1586,Failed RMS Check
+240822,Failed RMS Check
+240570,Failed RMS Check
+2236,Failed RMS Check
+240199,Failed RMS Check
+2249,Failed RMS Check
+240331,Failed RMS Check
+240465,Failed RMS Check
+2262,Failed RMS Check
+2266,Failed RMS Check
+240474,Failed RMS Check
+2271,Failed RMS Check
+2275,Failed RMS Check
+240357,Failed RMS Check
+240487,Failed RMS Check
+1008,Failed RMS Check
+2288,Failed RMS Check
+240370,Failed RMS Check
+240500,Failed RMS Check
+240510,Failed RMS Check

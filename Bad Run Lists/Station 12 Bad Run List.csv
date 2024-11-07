@@ -1,0 +1,376 @@
+Run Number,Comment
+4,Trigger Rate > 2
+5,Trigger Rate > 2
+6,Trigger Rate > 2
+7,Trigger Rate > 2
+8,Trigger Rate > 2
+10,Trigger Rate > 2
+11,Trigger Rate > 2
+12,Trigger Rate > 2
+13,Trigger Rate > 2
+14,Trigger Rate > 2
+15,Trigger Rate > 2
+16,Trigger Rate > 2
+17,Trigger Rate > 2
+18,Trigger Rate > 2
+19,Trigger Rate > 2
+20,Trigger Rate > 2
+21,Trigger Rate > 2
+22,Trigger Rate > 2
+23,Trigger Rate > 2
+24,Trigger Rate > 2
+25,Trigger Rate > 2
+26,Trigger Rate > 2
+27,Trigger Rate > 2
+28,Trigger Rate > 2
+29,Trigger Rate > 2
+30,Trigger Rate > 2
+31,Trigger Rate > 2
+32,Trigger Rate > 2
+35,Trigger Rate > 2
+36,Trigger Rate > 2
+37,Trigger Rate > 2
+38,Trigger Rate > 2
+40,Trigger Rate > 2
+41,Trigger Rate > 2
+42,Trigger Rate > 2
+44,Trigger Rate > 2
+45,Trigger Rate > 2
+46,Trigger Rate > 2
+47,Trigger Rate > 2
+48,Trigger Rate > 2
+49,Trigger Rate > 2
+50,Trigger Rate > 2
+51,Trigger Rate > 2
+52,Trigger Rate > 2
+53,Trigger Rate > 2
+54,Trigger Rate > 2
+55,Trigger Rate > 2
+56,Trigger Rate > 2
+57,Trigger Rate > 2
+58,Trigger Rate > 2
+59,Trigger Rate > 2
+60,Trigger Rate > 2
+61,Trigger Rate > 2
+62,Trigger Rate > 2
+63,Trigger Rate > 2
+64,Trigger Rate > 2
+65,Trigger Rate > 2
+66,Trigger Rate > 2
+67,Trigger Rate > 2
+69,Trigger Rate > 2
+70,Trigger Rate > 2
+71,Trigger Rate > 2
+72,Trigger Rate > 2
+73,Trigger Rate > 2
+74,Trigger Rate > 2
+75,Trigger Rate > 2
+76,Trigger Rate > 2
+110,Trigger Rate > 2
+235,changed scaler goals: 3->5
+361,Trigger Rate > 2
+403,
+404,
+405,
+406,
+407,
+408,
+409,
+410,
+411,
+412,
+413,
+414,
+415,
+416,
+430,
+431,
+434,
+435,
+621,
+622,
+623,
+624,
+625,
+626,
+627,
+628,
+629,See if shallow can trigger on deep pulser
+630,See if shallow can trigger on deep pulser
+631,See if shallow can trigger on deep pulser
+632,See if shallow can trigger on deep pulser
+667,Trigger Rate > 2
+671,Trigger Rate > 2
+703,"Pulser calibration run (fiber0, 10dB attenuation)"
+704,"Pulser calibration run (fiber0, 10dB attenuation)"
+705,"Pulser calibration run (fiber0, 10dB attenuation)"
+706,"Pulser calibration run (fiber0, 10dB attenuation)"
+707,"Pulser calibration run (fiber0, 10dB attenuation)"
+708,"Pulser calibration run (fiber0, 10dB attenuation)"
+709,"Pulser calibration run (fiber0, 10dB attenuation)"
+710,"Pulser calibration run (fiber0, 10dB attenuation)"
+711,"Pulser calibration run (fiber0, 10dB attenuation)"
+712,"Pulser calibration run (fiber0, 10dB attenuation)"
+713,"Pulser calibration run (fiber0, 10dB attenuation)"
+714,"Pulser calibration run (fiber0, 10dB attenuation)"
+715,"Pulser calibration run (fiber0, 10dB attenuation)"
+716,"Pulser calibration run (fiber0, 10dB attenuation)"
+717,"Calibration Run (fiber0, 5dB attenuation, pulser, PA trigger)"
+718,"Calibration Run (fiber0, 0dB attenuation, pulser, PA trigger)"
+721,"Calibration pulsing (fiber0, 10dB attenuation, pulser, PA trigger)"
+722,"Calibration pulsing (fiber1, 0dB attenuation, pulser, PA trigger)"
+723,"Calibration pulsing (fiber1, 5dB attenuation, pulser, PA trigger)"
+724,"Calibration pulsing (fiber1, 10dB attenuation, pulser, PA trigger)"
+725,"Calibration pulsing (fiber1, 5dB attenuation, vco, forced trigger)"
+726,"Calibration pulsing (fiber0, 5dB attenuation, vco, forced trigger)"
+730,Trigger Rate > 2
+731,Trigger Rate > 2
+732,Trigger Rate > 2
+736,testing calpulsing with pps trigger
+737,testing calpulsing with pps trigger
+738,testing calpulsing with pps trigger
+739,testing calpulsing with pps trigger
+740,testing calpulsing with pps trigger
+741,testing calpulsing with pps trigger
+742,testing calpulsing with pps trigger
+743,testing calpulsing with pps trigger
+744,testing calpulsing with pps trigger
+745,testing calpulsing with pps trigger
+746,testing calpulsing with pps trigger
+747,testing calpulsing with pps trigger
+748,Trigger Rate > 2
+750,Trigger Rate > 2
+751,Trigger Rate > 2
+752,Trigger Rate > 2
+753,Trigger Rate > 2
+758,Trigger Rate > 2
+759,Trigger Rate > 2
+760,Trigger Rate > 2
+761,Trigger Rate > 2
+762,Trigger Rate > 2
+763,Trigger Rate > 2
+764,Trigger Rate > 2
+765,Trigger Rate > 2
+766,Trigger Rate > 2
+767,Trigger Rate > 2
+768,Trigger Rate > 2
+769,Trigger Rate > 2
+770,Trigger Rate > 2
+771,Trigger Rate > 2
+772,Trigger Rate > 2
+773,Trigger Rate > 2
+774,Trigger Rate > 2
+775,Trigger Rate > 2
+776,Trigger Rate > 2
+777,Trigger Rate > 2
+778,Trigger Rate > 2
+779,Trigger Rate > 2
+781,Trigger Rate > 2
+782,Trigger Rate > 2
+783,Trigger Rate > 2
+812,Testing attenuators
+814,"Calibration run (PPS trigger, 0dB attenuation, 0.2mus time offset, surface pulser)"
+815,"Calibration run (PPS trigger, 0dB attenuation, 0.4mus time offset, surface pulser)"
+816,"Calibration run (PPS trigger, 0dB attenuation, 0.4mus time offset, surface pulser)"
+817,"Calibration run (PPS trigger, 0dB attenuation, 0.2mus time offset, surface pulser)"
+818,"Calibration run (PPS trigger, 0dB attenuation, 0.6mus time offset, surface pulser)"
+819,"Calibration run (PPS trigger, 0dB attenuation, 0.3mus time offset, surface pulser)"
+820,"Calibration run (PPS trigger, 0dB attenuation, 0.8mus time offset, surface pulser)"
+821,"Calibration run (PPS trigger, 0dB attenuation, 1.0mus time offset, surface pulser)"
+832,"Calibration run (PPS trigger, 0dB attenuation, surface, 1.2mus time offset)"
+833,"Calibration run (PPS trigger, 0dB attenuation, surface, 1.4mus time offset)"
+834,"Calibration run (PPS trigger, 0dB attenuation, surface, 1.6mus time offset)"
+835,"Calibration run (PPS trigger, 0dB attenuation, surface, 1.8mus time offset)"
+836,"Calibration run (PPS trigger, 0dB attenuation, surface, 2.0mus time offset)"
+843,
+851,
+852,
+853,
+854,
+855,
+856,
+857,
+858,
+859,
+860,
+861,
+862,
+863,
+864,
+865,
+866,
+867,
+868,
+869,
+870,
+871,
+872,
+991,Trigger Rate > 2
+1009,Trigger Rate > 2
+1010,Trigger Rate > 2
+1011,Trigger Rate > 2
+1012,Trigger Rate > 2
+1013,Trigger Rate > 2
+1055,Trigger Rate > 2
+1056,Trigger Rate > 2
+1057,Trigger Rate > 2
+1058,Trigger Rate > 2
+1059,Trigger Rate > 2
+1079,Trigger Rate > 2
+1089,pulsing run.
+1090,pulsing run.
+1091,pulsing run chan 6.
+1092,pulsing run chan 10.
+1093,pulsing run loc 2 chan 0. disabled bias scans for now
+1094,pulsing run loc 2 chan 0. disabled bias scans for now
+1095,pulsing run loc 2 chan 10. disabled bias scans for now
+1096,pulsing run loc 2 chan 22. disabled bias scans for now
+1097,pulsing run loc 2 chan 22. disabled bias scans for now
+1098,pulsing run loc 2 chan 22. disabled bias scans for now
+1099,pulsing run loc 2 chan 22. disabled bias scans for now
+1100,pulsing run loc 3 chan 6. disabled bias scans for now
+1101,pulsing run loc 2 chan 22. disabled bias scans for now
+1102,pulsing run loc 2 chan 22. disabled bias scans for now
+1103,pulsing run loc 2 chan 22. disabled bias scans for now
+1104,pulsing run loc 2 chan 22. disabled bias scans for now
+1105,pulsing run loc 2 chan 22. disabled bias scans for now
+1106,pulsing run loc 2 chan 22. disabled bias scans for now
+1107,pulsing run loc 2 chan 22. disabled bias scans for now
+1108,pulsing run loc 2 chan 22. disabled bias scans for now
+1109,pulsing run loc 2 chan 22. disabled bias scans for now
+1110,pulsing run loc 2 chan 22. disabled bias scans for now
+1111,pulsing run loc 2 chan 22. disabled bias scans for now
+1112,pulsing run loc 2 chan 22. disabled bias scans for now
+1113,pulsing run loc 2 chan 22. disabled bias scans for now
+1114,pulsing run loc 2 chan 22. disabled bias scans for now
+1115,pulsing run loc 2 chan 22. disabled bias scans for now
+1116,pulsing run loc 2 chan 22. disabled bias scans for now
+1117,pulsing run loc no servoing thresh 0.9. disabled bias scans for now
+1118,Trigger Rate > 2
+1119,pulsing run loc no servoing thresh 0.9. disabled bias scans for now
+1120,pulsing run loc no servoing thresh 0.9. disabled bias scans for now
+1121,pulsing run loc no servoing thresh 0.9. disabled bias scans for now
+1122,pulsing run loc no servoing thresh 0.9. disabled bias scans for now
+1123,pulsing run loc no servoing thresh 0.9. disabled bias scans for now
+1124,pulsing run loc no servoing thresh 0.9. disabled bias scans for now
+1125,pulsing run loc no servoing thresh 0.9. disabled bias scans for now
+1126,pulsing run loc no servoing thresh 0.9. disabled bias scans for now
+1127,pulsing run loc no servoing thresh 0.9. disabled bias scans for now
+1128,pulsing run loc no servoing thresh 0.9. disabled bias scans for now
+1129,pulsing run loc no servoing thresh 0.9. disabled bias scans for now
+1130,pulsing run loc no servoing thresh 0.9. disabled bias scans for now
+1131,pulsing run loc no servoing thresh 0.9. disabled bias scans for now
+1132,pulsing run loc no servoing thresh 0.9. disabled bias scans for now
+1133,pulsing run loc no servoing thresh 0.9. disabled bias scans for now
+1134,pulsing run loc no servoing thresh 0.9. disabled bias scans for now
+1135,pulsing run loc no servoing thresh 0.9. disabled bias scans for now
+1136,pulsing run loc no servoing thresh 0.9. disabled bias scans for now
+1137,pulsing run loc no servoing thresh 0.9. disabled bias scans for now
+1138,pulsing run loc no servoing thresh 0.9. disabled bias scans for now
+1139,pulsing run loc no servoing thresh 0.9. disabled bias scans for now
+1140,pulsing run
+1142,pulsing run
+1143,pulsing run
+1144,pulsing run
+1145,pulsing run
+1146,pulsing run
+1147,pulsing run
+1148,pulsing run
+1149,pulsing run
+1150,pulsing run
+1151,pulsing run
+1152,pulsing run
+1153,pulsing run
+1154,pulsing run
+1155,pulsing run
+1156,pulsing run loc no servoing thresh 0.9. disabled bias scans for now
+1157,bermtop pulsing
+1158,bermtop pulsing
+1159,bermtop pulsing
+1160,bermtop pulsing
+1344,Trigger Rate > 2
+1658,
+1882,Trigger Rate > 2
+1883,Trigger Rate > 2
+1884,Trigger Rate > 2
+1885,Trigger Rate > 2
+1886,Trigger Rate > 2
+1887,Trigger Rate > 2
+1888,Trigger Rate > 2
+1889,Trigger Rate > 2
+1890,Trigger Rate > 2
+1891,Trigger Rate > 2
+1892,Trigger Rate > 2
+1893,Trigger Rate > 2
+1894,Trigger Rate > 2
+1895,Trigger Rate > 2
+1910,channels 5 and 7 not tuning properly
+1927,Calibration run. Read out flower-board data.
+1928,Calibration run. Read out flower-board data.
+1929,Calibration run. Read out flower-board data.
+1930,Calibration run. Read out flower-board data.
+1931,Calibration run. Read out flower-board data.
+1932,Calibration run. Read out flower-board data.
+1933,Calibration run. Read out flower-board data.
+1934,Calibration run. Read out flower-board data.
+1935,Calibration run. Read out flower-board data.
+1936,Calibration run. Read out flower-board data.
+1937,Normal but short run. Used to take flower data afterwards
+1938,Calibration run. Read out flower-board data.
+1939,Calibration run. Read out flower-board data.
+120001,Trigger Rate > 2
+120002,Trigger Rate > 2
+120003,Trigger Rate > 2
+120004,Trigger Rate > 2
+120005,Trigger Rate > 2
+200000,Test runs after daq swap
+240035,Trigger Rate > 2
+240059,Trigger Rate > 2
+240184,
+240207,Trigger Rate > 2
+240208,Trigger Rate > 2
+240216,Trigger Rate > 2
+240231,Trigger Rate > 2
+240232,Trigger Rate > 2
+240256,Trigger Rate > 2
+240377,Trigger Rate > 2
+240394,Trigger Rate > 2
+240404,fib0 sweep
+240405,fib1 sweep
+240406,fib0 sweep
+240407,coax sweep
+240498,Trigger Rate > 2
+240546,Testing now option to record flower wavformsat the end of the run.
+240547,Testing now option to record flower wavformsat the end of the run.
+240551,Testing now option to record flower wavformsat the end of the run.
+240552,Testing now option to record flower wavformsat the end of the run.
+240553,Testing now option to record flower wavformsat the end of the run.
+240605,Trigger Rate > 2
+240606,Trigger Rate > 2
+240608,Trigger Rate > 2
+240609,Trigger Rate > 2
+240669,Trigger Rate > 2
+240670,Trigger Rate > 2
+240836,Trigger Rate > 2
+240837,Trigger Rate > 2
+240838,Trigger Rate > 2
+240839,Trigger Rate > 2
+240427,Failed RMS Check
+813,Failed RMS Check
+822,Failed RMS Check
+823,Failed RMS Check
+824,Failed RMS Check
+825,Failed RMS Check
+826,Failed RMS Check
+827,Failed RMS Check
+828,Failed RMS Check
+829,Failed RMS Check
+830,Failed RMS Check
+831,Failed RMS Check
+837,Failed RMS Check
+838,Failed RMS Check
+839,Failed RMS Check
+840,Failed RMS Check
+841,Failed RMS Check
+240089,Failed RMS Check
+1911,Failed RMS Check
