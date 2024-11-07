@@ -2,23 +2,9 @@ import os
 import ast
 import csv
 import argparse
-import math
 import numpy as np
 import ROOT
-import pickle
-import matplotlib.pyplot as plt
-from ROOT import gStyle, gPad, kRed
-import scipy
-import scipy.optimize as opt
-from scipy import signal
-from scipy.fft import fft, fftfreq, rfft, irfft
-from array import array
-from ROOT import gStyle, gPad, kRed, TMath
-from NuRadioReco.utilities import bandpass_filter
-from NuRadioReco.utilities import fft as fft_reco
-from NuRadioReco.detector.RNO_G import analog_components
 from NuRadioReco.modules.RNO_G import channelBlockOffsetFitter
-from NuRadioReco.modules.RNO_G.channelBlockOffsetFitter import channelBlockOffsets
 
 # load the RNO-G library
 ROOT.gSystem.Load(os.environ.get('RNO_G_INSTALL_DIR')+"/lib/libmattak.so")
@@ -102,6 +88,9 @@ def run_num(run):
     return int(num)
 
 stat = run_num(station)
+
+#change path to rms_bounds folder 
+
 bounds_path = f"/data/condor_builds/users/avijai/RNO/tutorials-rnog/get_daqstatus/rms_bounds/stat{stat}_rms_bounds.csv"
 ch_yr_bounds = {}
 years = []
