@@ -87,6 +87,8 @@ def run_num(run):
         num += float(nums[i])*(10**(len(nums)-i-1))
     return int(num)
 
+#change station number
+
 stat = run_num(station)
 
 #change path to rms_bounds folder 
